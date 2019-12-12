@@ -7,6 +7,9 @@ The package is still under developments to include and compare other observation
 
 ### Requirements
 
+- Python3
+
+Libraries
 - numpy
 - pandas
 - matplotlib
@@ -16,7 +19,7 @@ The package is still under developments to include and compare other observation
 
 Clone the respository and add the dependency to your environment, or just place the repository in your working folder.
 
-### Instructions
+### How to use
 
 See [demo_analysis.ipynb](demo_analysis.ipynb) for data analysis, [demo_plot.ipynb](demo_plot.ipynb) for plotting.
 
