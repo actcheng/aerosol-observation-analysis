@@ -18,7 +18,7 @@ Clone the respository and add the dependency to your environment, or just place 
 
 ### Instructions
 
-See [demo_analysis.ipynb](demo_analysis.ipynb) for data analysis, [demo_plot.ipynb](demo_plot.pynb) for plotting.
+See [demo_analysis.ipynb](demo_analysis.ipynb) for data analysis, [demo_plot.ipynb](demo_plot.ipynb) for plotting.
 
 Current functions include:
 
