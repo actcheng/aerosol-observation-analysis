@@ -8,8 +8,6 @@ The package is still under developments to include and compare other observation
 ### Requirements
 
 - Python3
-
-Libraries
 - numpy
 - pandas
 - matplotlib
