@@ -33,3 +33,6 @@ Current functions include:
 
 ## License
 This project is licensed under the MIT License
+
+### Versions
+Ver 1.0.0: 
